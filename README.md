@@ -1,3 +1,3 @@
 # system233.github.io
 
-[PCK Reader](https://system233.github.io)
+[Home](https://system233.github.io)
