@@ -12,8 +12,8 @@ PCK文件内含三种类型音频：`music`音乐、`sfx`音效、`voice`语音�
 # Windsong
 
 [页面地址](https://system233.github.io/windsong)  
-风物之琴Web版
-## 两首测试音乐
-[勾指起誓](https://system233.github.io/windsong/gzqs.json)
-[皎洁的笑颜](https://system233.github.io/windsong/sample.json)
+风物之琴Web版 V2
+## ~~两首测试音乐~~
+[~~勾指起誓~~](https://system233.github.io/windsong/gzqs.json)
+[~~皎洁的笑颜~~](https://system233.github.io/windsong/sample.json)
 
