@@ -1,0 +1,53 @@
+{
+  "icons": [
+    {
+      "src": "./icon_512x512.e3cf51ddc0d35e86243dbe736ab71d98.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_384x384.ab55fd69b59cb614214d21a0a76a3ea8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_256x256.444506f956011e17b6122ccb9792f5ad.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_192x192.0fb846567f18149e26c8755c94397196.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_128x128.2fee297e764840c47dda68ac20f76302.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_96x96.e95be9ec3029340ac1fe64fd1c22c583.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_64x64.0b02e3b3a513f2727cfab1b6a2daa6e8.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_32x32.0b7f62ae0f65308046c5c5ff8c56948a.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "name": "风物之诗琴",
+  "short_name": "风物之诗琴",
+  "orientation": "landscape",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#333",
+  "theme_color": "#6cf",
+  "lang": "zh-Hans",
+  "timestamp": 1635564925930
+}

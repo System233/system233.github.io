@@ -1,9 +1,0 @@
-{
-  "name": "风物之琴",
-  "short_name": "风物之琴",
-  "orientation": "landscape",
-  "display": "fullscreen",
-  "start_url": ".",
-  "background_color": "#333",
-  "theme_color": "#6cf"
-}
