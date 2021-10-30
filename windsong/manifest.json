@@ -44,10 +44,9 @@
   "name": "风物之诗琴",
   "short_name": "风物之诗琴",
   "orientation": "landscape",
-  "display": "standalone",
+  "display": "fullscreen",
   "start_url": ".",
   "background_color": "#333",
   "theme_color": "#6cf",
-  "lang": "zh-Hans",
-  "timestamp": 1635567620886
+  "timestamp": 1635570592053
 }
