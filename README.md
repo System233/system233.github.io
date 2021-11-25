@@ -15,6 +15,12 @@
 可以根据乐谱自动演奏，也可以练习按键演奏  
 内置几首预设音乐，欢迎欣赏
 
+### MIDI支持
+当前支持MIDI导入，一下提供两首测试音乐  
+[我和你](https://system233.github.io/assets/sounds/我和你.mid) (C=60)  
+[柳轻颂 - 学猫叫 (钢琴版)](https://system233.github.io/assets/sounds/%E6%9F%B3%E8%BD%BB%E9%A2%82%20-%20%E5%AD%A6%E7%8C%AB%E5%8F%AB%20(%E9%92%A2%E7%90%B4%E7%89%88).mid) (C=67)  
+
+
 ### 预设音乐
 [Astronomia](https://system233.github.io/windsong/#/song/AstronomiaV2)  
 [Astronomia V3](https://system233.github.io/windsong/#/song/AstronomiaV3)  
