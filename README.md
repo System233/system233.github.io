@@ -11,9 +11,11 @@
 ## 风物之诗琴
 
 [页面地址](https://system233.github.io/windsong)  
-风物之诗琴Web版 V2  
+风物之诗琴网页版 V2  
 可以根据乐谱自动演奏，也可以练习按键演奏  
 内置几首预设音乐，欢迎欣赏
+### 运行截图
+![运行截图](docs/windsong.png)
 
 ### MIDI支持
 当前支持MIDI导入，以下提供两首测试音乐  
@@ -22,6 +24,8 @@
 
 
 ### 预设音乐
+[我和你](https://system233.github.io/windsong/#/song/我和你)  
+[柳轻颂 - 学猫叫 (钢琴版)](https://system233.github.io/windsong/#/song/柳轻颂%20-%20学猫叫%20(钢琴版))  
 [Astronomia](https://system233.github.io/windsong/#/song/AstronomiaV2)  
 [Astronomia V3](https://system233.github.io/windsong/#/song/AstronomiaV3)  
 [海祇岛BGM](https://system233.github.io/windsong/#/song/海祇岛V2)  
@@ -38,3 +42,4 @@
 [星茶会](https://system233.github.io/windsong/#/song/灰澈%20-%20星茶会V2)  
 [雪掩的往事](https://system233.github.io/windsong/#/song/雪掩的往事)  
 
+若预设音乐没有在播放列表中出现，可以点击设置里的重新加载预设按钮
