@@ -48,5 +48,6 @@
   "start_url": ".",
   "background_color": "#333",
   "theme_color": "#6cf",
-  "timestamp": 1638343323359
+  "lang": "zh-Hans",
+  "version": "2.8.3"
 }
