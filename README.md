@@ -1,8 +1,3 @@
-# WebApps
-
-[主页](https://system233.github.io/)  
-此处挂靠一些自己写的网页工具
-
 ## PCK读取器
 
 [页面地址](https://system233.github.io/pck-reader)  
@@ -11,11 +6,22 @@
 ## 风物之诗琴
 
 [页面地址](https://system233.github.io/windsong)  
-风物之诗琴网页版 V2  
+风物之诗琴网页版  
 可以根据乐谱自动演奏，也可以练习按键演奏  
 内置几首预设音乐，欢迎欣赏
-### 运行截图
-![运行截图](docs/windsong.png)
+
+### osu!模式
+![osu!模式](docs/windsong-osu.png)
+暂停状态下可以点击圈圈或按下键盘进行练习（建议设置音符判定数为1）
+
+### 五线谱模式
+![五线谱模式](docs/windsong.png)
+
+### PWA支持(小程序)
+使用支持`PWA`的浏览器打开页面，如`Chrome`、`Edge`、`Firefox`、`Kiwi`、`Safari`等，点击地址栏的安装按钮。 
+![PWA-PC](docs/pwa-pc.png)  
+移动端点击页面底部安装提示或菜单栏安装选项，然后等待其安装并添加至主屏幕，之后从主屏幕打开会自动进入全屏横屏模式。
+![PWA-PC](docs/pwa-ac.png)  
 
 ### MIDI支持
 当前支持MIDI导入，以下提供两首测试音乐  
