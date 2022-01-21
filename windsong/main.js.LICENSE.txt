@@ -11,12 +11,6 @@ https://github.com/nodeca/pako/blob/master/LICENSE
 */
 
 /*!
-     * perfect-scrollbar v1.5.0
-     * Copyright 2020 Hyunje Jun, MDBootstrap and Contributors
-     * Licensed under MIT
-     */
-
-/*!
   * vue-router v4.0.12
   * (c) 2021 Eduardo San Martin Morote
   * @license MIT
